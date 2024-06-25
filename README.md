@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @naoualhoussni
+- 👀 I’m interested in web development, machine learning, and cybersecurity.
+- 🌱 I’m currently learning React.js and improving my data analysis skills.
+- 💞️ I’m looking to collaborate on open source projects related to education and technology.
+- 📫 How to reach me: You can reach me via email at example@email.com or connect with me on [LinkedIn](https://www.linkedin.com/in/naoualhoussni).
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I enjoy hiking and photography in my free time!
