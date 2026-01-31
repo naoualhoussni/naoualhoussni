@@ -1,7 +1,58 @@
-- 👋 Hi, I’m @naoualhoussni
-- 👀 I’m interested in web development, machine learning, and cybersecurity.
-- 🌱 I’m currently learning React.js and improving my data analysis skills.
-- 💞️ I’m looking to collaborate on open source projects related to education and technology.
-- - 📫 How to reach me: You can reach me via email at example@email.com or connect with me on [LinkedIn](https://www.linkedin.com/in/naoual-houssni-253ab6299/).
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I enjoy hiking and photography in my free time!
+👋 Hi, I’m Naoual Houssni
+🎓 AI Student | Full-Stack Developer | ML Enthusiast
+Passionate about building intelligent applications that solve real-world problems.
+
+🔭 Interests
+Artificial Intelligence & Machine Learning – Computer Vision, NLP, predictive modeling
+
+Full-Stack Development – React, Django, Node.js, modern web technologies
+
+Data Science – Data analysis, visualization, and interpretation
+
+Software Engineering – Clean architecture, scalable systems, and DevOps
+
+🌱 Currently Learning
+Advanced React.js and state management
+
+Machine Learning with Scikit-learn and TensorFlow
+
+Data Engineering and pipeline automation
+
+Cloud deployment and CI/CD practices
+
+🤝 Looking to Collaborate On
+Open-source projects in education, health-tech, or AI for social good
+
+Innovative AI/ML projects with real-world impact
+
+Full-stack applications that integrate intelligent features
+
+💼 Professional Goals
+Seeking an AI/ML internship to apply my skills in a professional environment
+
+Interested in roles involving Computer Vision, Data Science, or AI integration
+
+📬 How to Reach Me
+Email: n.houssni@suprh.com
+
+🛠️ Technical Stack
+Languages: Python, JavaScript, SQL, HTML/CSS
+Frameworks/Libraries: React, Django, Node.js, Express, Tailwind CSS
+AI/ML: Pandas, NumPy, Scikit-learn, OpenCV
+Databases: PostgreSQL, MongoDB
+Tools: Git, Docker, Render, VibeCoding, Power BI
+
+📈 Featured Projects
+Precare – SaaS platform for medical pre-consultation (React, Django, PostgreSQL)
+
+Facial Recognition Attendance System – OpenCV, Python, Tkinter
+
+TalGo – Internship management web application (Node.js, MongoDB)
+
+✨ Beyond Code
+🏔️ Enjoy hiking and nature photography
+
+📚 Constant learner, always exploring new technologies
+
+🌍 Passionate about using technology for positive social impact
+
